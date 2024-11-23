@@ -4,7 +4,11 @@ One of Rubik's Cube solvers with Deep Reinforcement Learning.
 The algorithm is based on the following paper.
 * S. McAleer et al. (2018), Solving the Rubik's Cube without Human Knowledge
 
-
+## About contents in the directory
+bin/exec - Contains the saved models.
+codes - Contains the code for models.
+include - Contains the dependencies for the Neural Network model.
+Outputs - Visualize.py for visualization, metrics.csv, and also the evaluation results
 ## Usage
 First, install [OpenBLAS](https://www.openblas.net/)
 ```
