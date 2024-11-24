@@ -1,8 +1,5 @@
 DeepCube
 ----
-One of Rubik's Cube solvers with Deep Reinforcement Learning.
-The algorithm is based on the following paper.
-* S. McAleer et al. (2018), Solving the Rubik's Cube without Human Knowledge
 
 ## About contents in the directory
 bin/exec - Contains the saved models.
